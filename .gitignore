@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Operating System generated files
+.DS_Store
+
+# User-generated data and trained models
+# These should not be tracked by Git
+data/
+models/
